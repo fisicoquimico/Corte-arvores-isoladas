@@ -1,0 +1,2 @@
+# Corte arvores isoladas
+ 
